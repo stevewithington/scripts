@@ -6,7 +6,7 @@
     "bootstrap": "^3.3.6",
     "cheerio": "^0.20.0",
     "cookie-parser": "~1.0.1",
-    "debug": "~0.7.4",
+    "debug": "~4.1.1",
     "exec": "^0.2.1",
     "express": "~4.2.0",
     "fountain-js": "0.0.1",
