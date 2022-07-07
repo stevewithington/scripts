@@ -13,7 +13,7 @@
     "fountain-js": "0.0.1",
     "jquery": ">=3.5.1",
     "jsdom": "^8.0.0",
-    "moment": "^2.11.2",
+    "moment": "^2.29.4",
     "morgan": "~1.10.0",
     "node-tesseract": "^0.2.7",
     "pdftohtmljs": "^0.3.7",
